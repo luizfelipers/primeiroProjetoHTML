@@ -5,4 +5,6 @@ Nesse projeto, o intuito era aprender como estruturar um site html com diferente
 
 This was a really basic and fundamental project to learn how to structure CSS websites. The styling was also basic.
 
+![](https://user-images.githubusercontent.com/26651389/103006811-17251980-4511-11eb-960f-9d1b4a45ef26.gif)
+
 
